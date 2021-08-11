@@ -15,7 +15,7 @@ Maybe I'll migrate this to a personal website in the future, but I won't need to
 It's neat. It's easy to format. Works in browser and in any desired IDE. Even works in terminal.
 
 # Wanna help?
-Contact `aerie\#0017` on Discord.
+Contact `aerie#0017` on Discord.
 
 # Requests?
 Create an [issue](https://github.com/itsaerie/Job-Musings/issues).

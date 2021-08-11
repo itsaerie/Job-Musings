@@ -2,4 +2,4 @@
 
 Unixtime | Proofreader Name
 -------- | ----------------
-0        | aerCreativity
+0        | itsAerie
