@@ -8,3 +8,7 @@ Additional info can be found on sites such as [Indeed](https://www.indeed.com/ca
 
 ## Section Info
 This section currently focuses only on programming interviews of the algorithmic type.
+
+## Recommended Order
+Recommended order for those who are completely new to Technical Interviews:
+README > Leetcode > Problem Solving > Communicating
