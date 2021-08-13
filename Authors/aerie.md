@@ -1,6 +1,6 @@
 Hi! I'm **aerie** and I'm the primary author of this.
 I've promised to write an amount of hours based on reactions to a specific unnamed Discord post:
-- Currently 0/14
+:Removed the number of hours because I'm unable to count to 5.
 
 Basically a CS major. Has worked at one or two notable places.
 > I'm not really going to go too much into my own background for a couple reasons.

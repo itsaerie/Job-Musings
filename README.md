@@ -1,3 +1,8 @@
+# THIS IS A LIVE REPO CURRENTLY
+If you'd like to be subscribed to the updates which I write, please use the "Watch" functionality.
+
+If you'd like this repo to be near the top of your Github list of repos, go ahead and star it.
+
 # Goals
 To provide non-generic advice for people who intend on getting some sort work in the software development space.
 Usually, it's for CS majors.
@@ -13,6 +18,8 @@ Each smaller README can provide some insight into the organization and contents 
 Maybe I'll migrate this to a personal website in the future, but I won't need to worry about formatting at all like this.
 ## Why markdown?
 It's neat. It's easy to format. Works in browser and in any desired IDE. Even works in terminal.
+## Style and Voice?
+First person. It's easier for me, for this topic.
 
 # Wanna help?
 Contact `aerie#0017` on Discord.
