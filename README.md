@@ -3,6 +3,9 @@ If you'd like to be subscribed to the updates which I write, please use the "Wat
 
 If you'd like this repo to be near the top of your Github list of repos, go ahead and star it.
 
+### Currently in-progress
+Technical Interviews folder.
+
 # Goals
 To provide non-generic advice for people who intend on getting some sort work in the software development space.
 Usually, it's for CS majors.
