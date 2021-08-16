@@ -21,3 +21,5 @@ Leetcode is also a solo practice platform, meaning that the only items involved 
 No need to try to explain what you're doing; no opportunity to ask or be asked questions; no one to give you hints.
 A majority of technical interviews, whether they are done via phone, video call, or in person, require you to communicate with your interviewer throughout the entire interview.
 Check out the "Communicating.md" file in the same directory for more info on communicating with others.
+
+todo: REDO FILE
