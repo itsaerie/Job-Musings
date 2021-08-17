@@ -23,3 +23,4 @@ A majority of technical interviews, whether they are done via phone, video call,
 Check out the "Communicating.md" file in the same directory for more info on communicating with others.
 
 todo: REDO FILE
+oh yeah, do leetcode mediums
