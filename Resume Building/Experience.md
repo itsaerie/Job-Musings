@@ -41,13 +41,52 @@ Clearly, the most relevant experiences are the best experiences to put onto your
 That said, which ones are most relevant to add in?
 Actually, do we even have relevant work experiences?
 
-- Other Internships
-Considering that current students usually don't have many other experiences, any previous
+- Other Internships (or Tech Experiences)
+Considering that current students usually don't have many other experiences, any previous internships should have top priority.
+And within that subset, you should prioritize the most well-known companies and the most important positions you've held.
+(This may be easy, as almost all of these positions involve the word "intern".)
 
+- Non-tech Job Experience
+Of course, retail is a great way to show that you have and have had a solid work ethic in general, but I'd recommend keeping the details on these to a minimum.
+I'd also warm slightly against filling your resume with these, rather than filling your resume with projects.
+It's kind of like a diet, it's nice to have a good, balanced resume, and non-tech job experiences are just about the closest to excess foods you can get.
+(Note that the actual reason why I recommend against bloating your resume with many different job experiences is because sometimes it can be taken as 'inconcsistency',
+meaning that a company might not want you back after working for them once or that you might not like working at the same place once.)
 
-### Volunteering
+Second note that I recommend avoiding details because, let's face it, they're superfluous and do little to nothing for a tech position.
+Sure, being able to shelve items properly is a responsibility, but programming takes item shelving to a different scale because of database management or access.
+Similarly, it's nice to showcase that you have good peer-to-peer skills, but you can display them outside of your resume.
+Take, for example, if someone were to walk up to you and tell you that they're a great conversationalist and a super humble person.
+They could, potentially, be telling the truth, but I wouldn't want to continue talking to said person as long as I have better option.
+The same logic applies here.
 
-### Leadership/Club Experience
+- Hackathons and Programming Events
+This can refer to Hackathons, CTF events, etc. Double points if you can mention that you won an award too.
+(Let me know if you'd like a document to expand on hackathons and other events.)
+
+Participating in a hackathon is a really cool thing.
+Not only are you demonstrating how quickly you can work on some project within a limited time span,
+but you're also showing that you have a passion for programming and a love for the field to the point where you're entering random competitions regarding programming.
+You're so cool, aren't you!
+These events are also a great way to segue topic from a resume into an interview.
+Some common behavioral questions may ask you about experiences with past projects, hard deadlines, or favorite projects and, luckily, these events are a perfect fit for those.
+
+- Volunteering
+Volunteering is wonderful! It demonstrates that you have character, which is always something that companies **prefer**.
+I say prefer because the list of job prerequisites doesn't usually include the words "Is a nice person."
+However, some forms of volunteering are more relevant to technical jobs than others.
+Teaching high school kids how to program in Scratch is more relevant than the physical labor of building homes in a third world country.
+It's not to belittle the people who do go out and build homes in a third world country, but volunteering experience is usually not as highly regarded.
+(That, and resume parsers generally won't care about how much you embraces local culture.)
+
+- Leadership Experience
+Leadership is an important trait, I think.
+I'm not really sure why companies look for it if you're not directly seeking some sort of leadership position, ie a Project Manager or Team Lead role.
+If you know more and would like to enlighten me on how I can better promote this part of "Experience", please shoot me a DM or open an issue!
+
+- Other Club Experience
+List this under your education.
+Sorry, but that's where it belongs.
 
 -----
 
