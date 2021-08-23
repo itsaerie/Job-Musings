@@ -105,7 +105,61 @@ As many recruiters only skim resumes, having large blocks of text usually transl
 *Ah, K.I.S.S. 'Keep It Simple, Stupid'*
 
 Keep your content brief and get to the point.
+If your content can be simplified, then simplify it!
+Remember, your recruiters are people too and they have a ton of resumes to get through, so you should keep it brief and get to the point.
+
+That said, how should we keep our content brief?
+
+##### Trim Excess Fa(c)ts
+These experiences should focus on important metrics that are either quantifiable (your recruiter will be impressed) or qualifiable (the parsing software will be impressed).
+
+Take a second to consider what your description is adding to your resume as a whole.
+Are you adding some new skills?
+Are you establishing your qualified expertise in some skill or job?
+Is this something relevant for the position you're applying to?
+DOes this show how well you performed your job (objectively)?
+If you can't answer "Yes" with 100% certainty to any of these questions, you should remove that description.
+
+If you're using a multi-sentence description or descriptions with multiple bullet points, you should ask those questions for each sentence/point.
 
 ##### Adding Metrics
+Now that you've trimmed off extra, unneeded details, you can move on to adding important metrics to help make your skills quantifiable.
+What are metrics?
+They are these pretty numbers that you can add to your resume (which should be backed by fact) that help make your achievement more colorful and quantifiable.
+Some alright examples might be:
+- \>95% accuracy for data analysis/ML/AI
+- improved workflows of 50,000 developers
+- grew user base from 500 to 25000
+
+TODO : Find the actual, pretty formatting for metrics. Also find some better metrics examples.
+
+My memory only kept "Worked on X, using Y, to achieve Z."
+- X is the project or goal you worked on.
+- Y is the technology or technologies you used.
+- Z is a metric.
+
+For example, referring to this (if I were doing this as a part of an experience), I would have a bullet point on a resume saying,
+"Worked on Job Musings using Markdown, to assist 5% of CS/IT majors of NJIT."
 
 ##### Demonstrating Proficiency
+How do we show off what we know while making sure they know about us knowing what we know that they might not know?
+That question may not make sense, but this is the kind of stuff that recruiters might see on resumes, for people that want to really show off.
+So how do we turn our technobabble into readable English?
+
+- Avoid jargon as much as possible.
+Excess use of jargon only helps confuse people. There's no need to overly complicate things by saying something like,
+"I warped the jump-cable via ISB-NET 4 through an Damascus unobtanium alloy to conjugate the multi-layered RNN with LSTM priorities."
+If that looked like mumbo-jumbo, then you know why recruiters (who are often not well-versed in tech) might not enjoy your use of jargon.
+I'd recommend that you try limiting the use of jargon to the more common terms: well-known languages, tools, and technologies.
+
+- Remember what tools are.
+Don't express your experience as "worked in Language".
+Sorry to say, but it doesn't show anything if you only say that you worked in a certain language.
+Remember that languages are tools, and that your achievements in a language can demonstrate your prowess.
+As an example, it's a stronger argument to say that you "built the framework to parse and interpret a language using C++"
+compared to saying that you "worked in C++ to parse and interpret code".
+
+##### Grammar
+Use proper and formal English (or whatever language your resume is written in).
+
+Weak grammar is, well, weak. A resume is definitely a formal document, so you should try to use formal language.
