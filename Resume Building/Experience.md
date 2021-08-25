@@ -42,13 +42,15 @@ That said, which ones are most relevant to add in?
 Actually, do we even have relevant work experiences?
 
 - Other Internships (or Tech Experiences)
+
 Considering that current students usually don't have many other experiences, any previous internships should have top priority.
 And within that subset, you should prioritize the most well-known companies and the most important positions you've held.
 (This may be easy, as almost all of these positions involve the word "intern".)
 
 - Non-tech Job Experience
+
 Of course, retail is a great way to show that you have and have had a solid work ethic in general, but I'd recommend keeping the details on these to a minimum.
-I'd also warm slightly against filling your resume with these, rather than filling your resume with projects.
+I'd also warn slightly against filling your resume with these, rather than filling your resume with projects.
 It's kind of like a diet, it's nice to have a good, balanced resume, and non-tech job experiences are just about the closest to excess foods you can get.
 (Note that the actual reason why I recommend against bloating your resume with many different job experiences is because sometimes it can be taken as 'inconcsistency',
 meaning that a company might not want you back after working for them once or that you might not like working at the same place once.)
@@ -61,6 +63,7 @@ They could, potentially, be telling the truth, but I wouldn't want to continue t
 The same logic applies here.
 
 - Hackathons and Programming Events
+
 This can refer to Hackathons, CTF events, etc. Double points if you can mention that you won an award too.
 (Let me know if you'd like a document to expand on hackathons and other events.)
 
@@ -72,6 +75,7 @@ These events are also a great way to segue topic from a resume into an interview
 Some common behavioral questions may ask you about experiences with past projects, hard deadlines, or favorite projects and, luckily, these events are a perfect fit for those.
 
 - Volunteering
+
 Volunteering is wonderful! It demonstrates that you have character, which is always something that companies **prefer**.
 I say prefer because the list of job prerequisites doesn't usually include the words "Is a nice person."
 However, some forms of volunteering are more relevant to technical jobs than others.
@@ -80,11 +84,13 @@ It's not to belittle the people who do go out and build homes in a third world c
 (That, and resume parsers generally won't care about how much you embraces local culture.)
 
 - Leadership Experience
+
 Leadership is an important trait, I think.
 I'm not really sure why companies look for it if you're not directly seeking some sort of leadership position, ie a Project Manager or Team Lead role.
 If you know more and would like to enlighten me on how I can better promote this part of "Experience", please shoot me a DM or open an issue!
 
 - Other Club Experience
+
 List this under your education.
 Sorry, but that's where it belongs.
 
@@ -117,7 +123,7 @@ Take a second to consider what your description is adding to your resume as a wh
 Are you adding some new skills?
 Are you establishing your qualified expertise in some skill or job?
 Is this something relevant for the position you're applying to?
-DOes this show how well you performed your job (objectively)?
+Does this show how well you performed your job (objectively)?
 If you can't answer "Yes" with 100% certainty to any of these questions, you should remove that description.
 
 If you're using a multi-sentence description or descriptions with multiple bullet points, you should ask those questions for each sentence/point.
@@ -147,12 +153,14 @@ That question may not make sense, but this is the kind of stuff that recruiters 
 So how do we turn our technobabble into readable English?
 
 - Avoid jargon as much as possible.
+
 Excess use of jargon only helps confuse people. There's no need to overly complicate things by saying something like,
 "I warped the jump-cable via ISB-NET 4 through an Damascus unobtanium alloy to conjugate the multi-layered RNN with LSTM priorities."
 If that looked like mumbo-jumbo, then you know why recruiters (who are often not well-versed in tech) might not enjoy your use of jargon.
 I'd recommend that you try limiting the use of jargon to the more common terms: well-known languages, tools, and technologies.
 
 - Remember what tools are.
+
 Don't express your experience as "worked in Language".
 Sorry to say, but it doesn't show anything if you only say that you worked in a certain language.
 Remember that languages are tools, and that your achievements in a language can demonstrate your prowess.
