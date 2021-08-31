@@ -40,6 +40,8 @@ Congratulations, your resume is "Resume (101).pdf"! This should be the exact opp
 # Content Intro
 Well, sure, it's nice to know how to organize a resume, but what should I put on it?
 
+Please do not be concerned about not having "enough content" in a certain section of the resume. These portions are put in order so that you'll be able to fill your resume with content no matter what! (As long as you, well, attend classes at the very least.)
+
 ## Who are you?
 Put this section at the TOP of your resume, no matter what.
 No if's, and's, or's, or but's.
