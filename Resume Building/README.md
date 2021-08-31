@@ -7,7 +7,7 @@ First impressions matter incredibly here, so you're going to want to be impactfu
 
 What do you want your resume to do, then? You want it to turn you from "Applicant ID 4M0N6U5" into "Insert your name here".
 Your resume should capture what you've done, a quantitative way to show that you've obtained more amazing-and-unique-cookie points than the next applicant.
-It should also demonstrat a sort of track record, showing that you can obtain even more amazing-and-unique-cookie points than the next person.
+It should also demonstrate a sort of track record, showing that you can obtain even more amazing-and-unique-cookie points than the next person.
 The world might be too big to always exist at the top of the cookie jar (and if you did, why are you reading this?), but you can shoot to be better than the next person.
 
 ## Section Info
@@ -15,4 +15,4 @@ This section is WIP
 
 ## Recommended Order
 Recommended order for those who are completely new to Resumes:
-README > Structure > Experience > Projects > Portfolio
+[README](https://github.com/itsaerie/Job-Musings/blob/main/Resume%20Building/README.md) > [Structure](https://github.com/itsaerie/Job-Musings/blob/main/Resume%20Building/Structure.md) > [Experience](https://github.com/itsaerie/Job-Musings/blob/main/Resume%20Building/Experience.md) > [Projects](https://github.com/itsaerie/Job-Musings/blob/main/Resume%20Building/Projects.md) > [Portfolio](https://github.com/itsaerie/Job-Musings/blob/main/Resume%20Building/Portfolio.md)

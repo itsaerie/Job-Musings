@@ -104,7 +104,7 @@ Some people have a personal rule of not showing a GPA below X, so just go with y
 This can be "Work Experience" or "Volunteering" or "Side project experience".
 
 If you're still a student, there's a high chance that this is mostly empty.
-Fear not, there's the __Experience.md__ file just for that purpose!
+Fear not, there's the [Experience.md](https://github.com/itsaerie/Job-Musings/blob/main/Resume%20Building/Experience.md) file just for that purpose!
 (There's too much to say to include it in this file.)
 
 ## Projects
@@ -112,7 +112,7 @@ It's hard to say how important this section really is or whether this section re
 But really, there's a lot to consider and a lot to write here
 
 If you're still a student, there's a high chance that this is mostly empty.
-Fear not, there's the __Projects.md__ file just for that purpose!
+Fear not, there's the [Projects.md](https://github.com/itsaerie/Job-Musings/blob/main/Resume%20Building/Projects.md) file just for that purpose!
 (There's way too much to say to include it in this file.)
 
 ## Skills
