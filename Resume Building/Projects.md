@@ -10,19 +10,22 @@ This section is where you can give your recruiters and interviewers a taste of y
 Oh, and...
 **It's OKAY to include projects in-progress!**
 
-### Project Description
+## Project Description
 When you're writing a description for the project, there are two main ways to "misexplain" your project: underselling or overexplaining.
 
+### Underselling Your Project
 Descriptions which undersell your project are the exceedingly short descriptions which shorten your project into as arbitrary terms as possible.
 For example, you could have your personal website listed as a project, but underselling your website would just be putting "A basic website" as your entire description.
 Remember that you want to make yourself look **adequate** using your resume.
 Consider mentioning what sort of tech stack you used (ie LAMP) or some technologies that you've implemented in your project (React, Angular, PSQL, etc).
 Additionally, you can mention other buzzwords like "Front-end" or "Full stack".
 
+### Overexplaining Everything Your Project Does and Says to the Smallest Detail
 Just be wary of overexplaining. This is something which might end up happening when your description is a paragraph long.
 Remember that your descriptions should be brief and skimmable (see README.md) as your resume isn't expected to go under intense scrutiny, at least not initially.
 An example of an overexplained project (using the same website example) would be as follows:
 > I built a website using HTML5 and CSS while implementing some navigation components in JS. The navigation components link using href tags to different local pages on the website, allowing a user to get from one internal page to another internal page with the click of a button. Additionally, this website is hosted using Github pages which completely removes the need for me to work with servers or different hosting methods so that I could focus on frontend development. Github pages is also a free option for website hosting which is why I chose it.
+
 Please note that a resume should be a singular page, and you don't need to use the same text-bloating skills you would use on your 5-page English paper (you know exactly what I mean).
 Focus on making your descriptions concise and to the point.
 If you're still having issues, then take each sentence or phrase and examine it individually by asking yourself some questions about it:
@@ -31,9 +34,9 @@ If you're still having issues, then take each sentence or phrase and examine it 
 - Is this sentence redundant because I already cover it?
 - Can this be simplified? (Why have a sentence when you can use one phrase?)
 - Do I need to explain this? (Answer is NO for all technologies/prebuilt libraries)
-- Is this obvious? (Do I need to explain that the blue underlined text is a [link](https://isitchristmas.com/)?)
+- Is this obvious? (Do I need to explain that the blue underlined text is a __[link](https://isitchristmas.com/)__?)
 
-### Showcasing
+## Showcasing Your Project
 For online projects or Github repos, **ADD LINKS** to your project!
 A simple link will eliminate the need for you to overexplain what exactly your project does when an interested party can just head to the link provided and play with the project themselves.
 This also helps make your resume appealing for both the non-tech-savvy recruiters/HR folks and the interviewers who will give you technical interviews.
