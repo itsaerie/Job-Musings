@@ -10,6 +10,40 @@ This section is where you can give your recruiters and interviewers a taste of y
 Oh, and...
 **It's OKAY to include projects in-progress!**
 
+### Project Description
+When you're writing a description for the project, there are two main ways to "misexplain" your project: underselling or overexplaining.
+
+Descriptions which undersell your project are the exceedingly short descriptions which shorten your project into as arbitrary terms as possible.
+For example, you could have your personal website listed as a project, but underselling your website would just be putting "A basic website" as your entire description.
+Remember that you want to make yourself look **adequate** using your resume.
+Consider mentioning what sort of tech stack you used (ie LAMP) or some technologies that you've implemented in your project (React, Angular, PSQL, etc).
+Additionally, you can mention other buzzwords like "Front-end" or "Full stack".
+
+Just be wary of overexplaining. This is something which might end up happening when your description is a paragraph long.
+Remember that your descriptions should be brief and skimmable (see README.md) as your resume isn't expected to go under intense scrutiny, at least not initially.
+An example of an overexplained project (using the same website example) would be as follows:
+> I built a website using HTML5 and CSS while implementing some navigation components in JS. The navigation components link using href tags to different local pages on the website, allowing a user to get from one internal page to another internal page with the click of a button. Additionally, this website is hosted using Github pages which completely removes the need for me to work with servers or different hosting methods so that I could focus on frontend development. Github pages is also a free option for website hosting which is why I chose it.
+Please note that a resume should be a singular page, and you don't need to use the same text-bloating skills you would use on your 5-page English paper (you know exactly what I mean).
+Focus on making your descriptions concise and to the point.
+If you're still having issues, then take each sentence or phrase and examine it individually by asking yourself some questions about it:
+- What does this sentence add to my resume?
+- Does this sentence add some searchable skills?
+- Is this sentence redundant because I already cover it?
+- Can this be simplified? (Why have a sentence when you can use one phrase?)
+- Do I need to explain this? (Answer is NO for all technologies/prebuilt libraries)
+- Is this obvious? (Do I need to explain that the blue underlined text is a [link](https://isitchristmas.com/)?)
+
+### Showcasing
+For online projects or Github repos, **ADD LINKS** to your project!
+A simple link will eliminate the need for you to overexplain what exactly your project does when an interested party can just head to the link provided and play with the project themselves.
+This also helps make your resume appealing for both the non-tech-savvy recruiters/HR folks and the interviewers who will give you technical interviews.
+
+If you don't think it's pretty enough to list, then just make it pretty. (No, seriously.)
+Don't think your code fits industry standards? It's alright, noone expects it of you anyways. Also, you could use tools that lint and clean up your code, ie [pylint](https://pylint.org/), or tools which automatically format your code, ie [black](https://pypi.org/project/black/).
+
+If you don't want to bother with that, then just don't link your project repo.
+Just know that it'll look a little weird to have only some projects linked when your other projects aren't linked.
+
 -----
 
 # Passion Projects
@@ -82,19 +116,25 @@ My main issue with this is that unordered TODO lists end up messing with logical
 This is very unorganized, but I get the benefit of being able to run a short search and find what I have left TODO.
 The main issue is... It's super unorganized and requires checking files constantly.
 - Kanban Boards. Honestly, I'd just recommend you read about it, maybe from an [article](https://www.atlassian.com/agile/kanban/kanban-vs-scrum) or [something](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban-board).
-It's super organized, but it personally feels like a project in itself. Which is kinda boring when you want to get productive.
+It's super organized, but the work of doing it is like a project in itself. Which is kinda boring when you want to get productive.
 
 -----
 
 # Schoolwork as Projects
-You are a boring person.
+You are a boring person. (Not really.)
 Just hope that your recruiter does not receive multiple resumes from the same school or they'll know that something is up with all of these strikingly-similar-yet-probably-not-plagiarized projects.
 
 But really, if the project details were specified in a lot of detail by your professor to the point where your project looks exactly like another classmate's project, I would warn against including said project.
-I suppose that it should be okay to do so if you have zero experience and zero other projects listed, but my preference says not to.
+I suppose that it should be okay to do so if you have zero experience and zero other projects listed.
+It's also okay to just not mention that this project was done as a part of schoolwork.
+
+Additionally, before uploading ANY of your projects to a public area (ie Public Repo or otherwise), please consult your school's policies on Academic Integrity.
+Many institutes limit the amount of information which can be shared in a public manner.
+Some professors may be adverse to sharing of course materials or projects.
+So, if your project is done by-the-book, you should definitely consult your professor before uploading it publicly.
 
 -----
 
-# Non-technical Projects
+# Non-technical Projects [WIP]
 Honestly, I wouldn't know.
 If it's something that's grown and succeeded enough to the point where it makes you money, why is it counted as a "Project" and not an "Experience"?
