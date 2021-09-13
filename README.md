@@ -4,7 +4,7 @@ If you'd like to be subscribed to the updates which I write, please use the "Wat
 If you'd like this repo to be near the top of your Github list of repos, go ahead and star it.
 
 ### Currently in-progress
-Resumes. I suppose the resume is the thing that gets you to the interview, so I should do resumes first.
+Waiting on proofreading for the Resume Building section, and moving on to talking about Technical Interviews meanwhile.
 
 # Goals
 To provide non-generic advice for people who intend on getting some sort work in the software development space.

@@ -11,7 +11,7 @@ It should also demonstrate a sort of track record, showing that you can obtain e
 The world might be too big to always exist at the top of the cookie jar (and if you did, why are you reading this?), but you can shoot to be better than the next person.
 
 ## Section Info
-This section is WIP
+This section is **Awaiting Proofreading** and revisions.
 
 ## Recommended Order
 Recommended order for those who are completely new to Resumes:
