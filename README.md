@@ -1,10 +1,11 @@
-# THIS IS A LIVE REPO CURRENTLY
+# THIS IS NOT A LIVE REPO
 If you'd like to be subscribed to the updates which I write, please use the "Watch" functionality.
 
 If you'd like this repo to be near the top of your Github list of repos, go ahead and star it.
 
 ### Currently in-progress
 Waiting on proofreading for the Resume Building section, and moving on to talking about Technical Interviews meanwhile.
+I'll restart working on this on my spare time.
 
 # Goals
 To provide non-generic advice for people who intend on getting some sort work in the software development space.
