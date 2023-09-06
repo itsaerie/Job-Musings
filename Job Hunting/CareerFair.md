@@ -1,6 +1,6 @@
 # Career Fair
 
-## The W's (not Win, sorry)
+# The W's (not Win, sorry)
 
 ### What is that?
 
@@ -12,7 +12,7 @@ Disclaimer: I have *zero* insight into all companies present at a career fair an
 
 The main reason why you would want to go to a career fair is, obviously, to try to get a job. Whether it's an internship or a full-time position, a career fair isn't a bad place to go to apply to companies and show them that you care. For example, if you have a history of "repping" (slang for "representing") a company in an unofficial and positive manner, it's pretty likely that you might be documented for doing so. Additionally, there's the merit of the people that you meet during the career fair being likely to be involved in their hiring process for your "batch" (school or region or whatever flavor career fair it is), and it is in your best interest to make a positive impression on the people who decide whether you are to be hired or not. Finally, for those uninterested in jobs, career fairs are great places for free merch: you only need to wait in line for minutes to get random free goodies, such as (but not guaranteed) laptop camera covers, pop sockets, bookmarks, rulers, and more.
 
-## Planning for the Fair
+# Planning for the Fair
 
 ### The Hitlist
 
@@ -20,11 +20,11 @@ Most career fairs will give you or have available a list of expected companies t
 
 So which companies deserve a visit and which don't? That depends heavily on whether you have a goal or career path in mind or not.
 
-#### A Specialist Warpath
+##### A Specialist Warpath
 
 If you have a discipline in mind and a focal point, then that's great! You should definitely first filter all the companies down to the companies that you'd want to work for in a professional capacity, for whatever role you're intending to work as. For example, a software engineer might filter the hitlist down to solely companies known for their technological advancements or known to work purely in computer-related fields. However, specialization means that there's a risk of finding a very low amount of companies directly tied to a desired field, so it could be a good idea to expand to tangentially related fields if the hitlist isn't enough to fill your whole day.
 
-#### The Goalless One
+##### The Goalless One
 
 It's a little bit more difficult to go to a career fair without a specialization in mind. Still, it's good to generate a list of companies that sound appealing to work for and to rule out the companies or positions you would absolutely refuse to work for. That should at least narrow it down. Otherwise, it might be a good idea to limit the count of big brand name companies (the ones even your grandparents know) down to maybe 5-20% of your final list. Note that the hitlist should be doable within the allotted career fair duration.
 
@@ -38,6 +38,6 @@ Now, there is the possibility to attempt A* or some other pathfinding mechanism 
 
 TODO: Dressing Up, Bags/Containers, Resume Copies, WATER
 
-## Going the Distance
+# Going the Distance
 
 TODO: The event itself
