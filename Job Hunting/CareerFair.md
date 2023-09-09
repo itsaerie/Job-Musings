@@ -56,4 +56,22 @@ Bring water bottles. If you know how much water you drink while active, allot fo
 
 # Going the Distance
 
-TODO: The event itself
+The event itself should be pretty trivial with your preplanning completed, but there's always the issue of social interaction.
+
+### "Just Get Me a Job"
+
+Sadly, social norms tell us to not walk up to people and say "Get me a job now, thanks." It's not how it works, so we have to say things like "What kinds of positions do you have open? How do I apply?" In reality, there are a lot of different ways to approach a stand at a career fair, and it all always depends on your own personality and social aptitude.
+
+##### What if I have no personality or social aptitude?
+
+If so, the general guideline to be likeable without talking much is to be as good of an active listener as possible- ask a lot of questions that get people going other places. Questions are generally good and make you seem interested in the company (regardless of ulterior job/money-related motives). Overall, a majority of the questions you can ask are the same questions that you might ask during interviews.
+
+Some sample starting questions:
+- "Can you tell me about the company?"
+- "How big is the team? What's the team like?"
+- "Do you know what technologies X position uses?"
+- "What positions do you have open/are you hiring for?"
+
+# Afterwards
+
+After the career fair, it is 100% in your best interest to apply for whatever positions you've decided to apply for **ASAP**. Know that others who have attended the career fair might be more desperate than you and also be applying day-of.
