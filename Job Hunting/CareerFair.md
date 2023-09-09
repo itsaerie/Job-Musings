@@ -36,7 +36,23 @@ Now, there is the possibility to attempt A* or some other pathfinding mechanism 
 
 ### Gearing Up
 
-TODO: Dressing Up, Bags/Containers, Resume Copies, WATER
+For in-person career fairs, there's also an amount of homework that you'll want to do before atteending. None of this is really "required", but it is all highly recommended to improve your career fair experience.
+
+##### Modern Armor
+
+Dress up. Really. Dress as formally as you can bear existing in for <insert duration of career fair in hours> hours. The more formal the better. What was and still is tradition for job interviews is to wear a level of formality above the person who is interviewing you (see this article on Indeed: https://www.indeed.com/career-advice/interviewing/how-to-dress-for-a-job-interview ), and the career fair can be considered your pre-interview interview. Of course, physical bias and attractiveness work, but if you know what kind of outfit you objectively look best in, then rock it.
+
+##### Bags of Holding
+
+Bring a bag or a purse or something with carrying capacity. This isn't just to hold the items you bring with you into the career fair, but it is also to help carry everything you receive out. Aside from the freebies and thingamajigs, you'll likely be getting a lot of miscellaneous (and maybe important) papers and pamphlets. Most of them will be information you can find online, but some rare gems will point you to the juiciest career-fair-exclusive opportunities, and it would be bad to miss out on those.
+
+##### Steel Yourself
+
+(Steal yourself?) Your resume should be one page. (If not, there's some ranting about making a technical resume here: https://github.com/itsaerie/Job-Musings/tree/main/Resume%20Building ) Print out multiple copies of it, for sure. Aim to print around 5-10 extra copies depending on how many booths/companies you're planning to interact with, so that you can be certain that anyone and everyone who wants a copy of you(r resume) will have one.
+
+##### Hydration Check
+
+Bring water bottles. If you know how much water you drink while active, allot for being active for the entire time. Not only will you be standing and walking, but you will also be talking a decent amount (hopefully). Stay hydrated. While you're at it, if your phone won't be able to comfortably last you the entire period, then bring a portable battery and charging cable for your phone too.
 
 # Going the Distance
 
